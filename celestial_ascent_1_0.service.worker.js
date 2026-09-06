@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1.0-rc2|3c4c4d0d017ce7a8e3c1';
+const CACHE_VERSION = '1.0-final|b47df43673163180b6a1';
 /** @type {string} */
 const CACHE_PREFIX = 'Celestial Ascent-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
